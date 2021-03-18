@@ -1,0 +1,9 @@
+.container{
+    text-align: center;
+}
+canvas{
+    width: 600px;
+    height: 400px;
+    border: solid;
+    border-color: red;
+}
