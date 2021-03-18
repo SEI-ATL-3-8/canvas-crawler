@@ -1,26 +1,26 @@
-- create the canvas
-- set the height and width
-- get the context
-- draw a recrangle
-- comment out the height&width set and see what happens
-- make an object w/ render method
-- attach listeners to arrows that adjust the x & y of this object
-- note that obj props update, but the screen does not
-- we need to call render again, but very often
-- setInterval a loop function
-- add clearRect
-- move hero around
-- make some ogres
-- use a class
-- put them in an array, loop through that array to render all
-- check collision, just hitting from left
-- then just right
-- then see that one is always firing
-- so we want to conjoin with &&
-- now check along y axis too
-- take action on collision: mark the ogre as dead
-- only render ogres if alive
-- if all ogres are dead, you win
+x create the canvas
+x set the height and width
+x get the context
+x draw a recrangle
+x comment out the height&width set and see what happens
+x make an object w/ render method
+x attach listeners to arrows that adjust the x & y of this object
+x note that obj props update, but the screen does not
+x we need to call render again, but very often
+x setInterval a loop function
+x add clearRect
+x move hero around
+x make some ogres
+x use a class
+x put them in an array, loop through that array to render all
+x check collision, just hitting from left
+x then just right
+x then see that one is always firing
+x so we want to conjoin with &&
+x now check along y axis too
+x take action on collision: mark the ogre as dead
+x only render ogres if alive
+x if all ogres are dead, you win
 
 helpful hints:
 post hero x&y in the DOM inside the gameLoop
