@@ -21,7 +21,7 @@
 - take action on collision: mark the ogre as dead
 - only render ogres if alive
 - if all ogres are dead, you win
-
+qw
 helpful hints:
 post hero x&y in the DOM inside the gameLoop
 if you want something to move without user input, make a separate class, and its render method updates its position before drawRect
